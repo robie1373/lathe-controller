@@ -16,6 +16,8 @@ ToDo
 ToDo
 
 ## Important data
+For debugging, a clue is here: https://www.visualmicro.com/forums/YaBB.pl?num=1674043049
+
 
 The key trick is getting the PWM signal from the controller to the PS correct. 
 The timing of the PWM is 51ms per cycle. By adjusting the duty cycle, you can adjust the speed of the motor.

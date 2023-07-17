@@ -15,6 +15,12 @@ ToDo
 ## Circuit
 ToDo
 
+## Dependencies
+* ? [rotary encoder](https://crates.io/crates/rotary-encoder-hal) 
+* ? [switch](https://crates.io/crates/switch-hal)
+* ? [debouncer](https://crates.io/crates/debouncr)
+* ? [maybe this 7-segment display](https://crates.io/crates/adafruit-7segment)
+
 ## Important data
 For debugging, a clue is here: https://www.visualmicro.com/forums/YaBB.pl?num=1674043049
 
